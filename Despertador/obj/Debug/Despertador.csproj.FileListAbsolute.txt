@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\bin\Debug\Despertador.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\bin\Debug\Despertador.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\bin\Debug\Despertador.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\Despertador.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\Despertador.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\Despertador.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\Despertador.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\Despertador.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\Despertador.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\Despertador\Despertador\obj\Debug\Despertador.frmDespertador.resources
